@@ -1,0 +1,10 @@
+Bluprints for OpenESP
+=====================
+
+A blueprint is a complete example configuration for OpenESP, to demonstrate a particular usecase.
+
+A blueprint is simply a complete set of configs, data and examples to illustrate an example usecase.
+The blueprint typically includes:
+* $OPENESP_HOME/conf/solr/<bpname> : Solr core config
+* $OPENESP_HOME/conf/solr/solr.xml : The new core is added to solr.xml
+* $OPENESP_HOME/blueprints/
